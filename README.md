@@ -1,20 +1,20 @@
-<h1 align="left">Olá, me chamo Gustavo! 👨🏻‍💻</h1>
+<h1 align="left">Hello, my name is Gustavo! 👨🏻‍💻</h1>
 
 ###
 
-<p align="left">Bem-vindo ao meu perfil no GitHub!<br><br>Sou um desenvolvedor júnior em constante evolução, sempre buscando novas tecnologias e desafios para aprimorar minhas habilidades e expandir meu conhecimento.</p>
+<p align="left">Welcome to my GitHub profile!<br><br>I'm a junior developer in constant evolution, always looking for new technologies and challenges to improve my skills and expand my knowledge.</p>
 
 ###
 
-<h2 align="left">🚀 Sobre Mim</h2>
+<h2 align="left">👨🏻‍💻 About me</h2>
 
 ###
 
-<p align="left">Tenho uma base sólida em front-end, com experiência em HTML, CSS, Bootstrap e JavaScript básico. Em meus projetos, cada um é uma oportunidade única para explorar e aplicar meus conhecimentos, sempre com o objetivo de entregar soluções criativas e funcionais.<br><br>No back-end, possuo um entendimento robusto em Python e estou atualmente aprendendo Linguagem C e SQL para ampliar minhas habilidades em banco de dados.</p>
+<p align="left">I have a solid foundation in front-end, with experience in HTML, CSS, Bootstrap. Nodejs and basic JavaScript. In my projects, each one is a unique opportunity to explore and apply my knowledge, always with the aim of delivering creative and functional solutions.<br><br>On the back-end, I have a robust understanding of Python and I am currently learning C and SQL languages ​​to expand my database skills.</p>
 
 ###
 
-<h2 align="left">🔧 Tecnologias & Ferramentas</h2>
+<h2 align="left">🔧 Technologies and tools</h2>
 
 ###
 
@@ -33,12 +33,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+
 </div>
 
 ###
 
-<h2 align="left">📫 Vamos nos conectar!</h2>
+<h2 align="left">📫 Let's connect</h2>
 
 ###
 
