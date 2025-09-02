@@ -1,15 +1,6 @@
 <h1 align="left">Nice to meet you! I am Gustavo 👨🏻‍💻</h1>
-
-###
-
 <p align="left">Welcome to my GitHub profile!<br><br></p>
-
-###
-
 <h2 align="left">👨🏻‍💻 About me</h2>
-
-###
-
 <p align="left">I am an IT professional with experience in data analysis, SQL, and Power BI, passionate about transforming information into insights. I also bring a consulting mindset, understanding the client’s perspective to deliver effective solutions, while continuously developing my programming skills and working on essential projects in technology and business.</p>
 
 ###
