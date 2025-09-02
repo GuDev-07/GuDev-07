@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile!<br><br>I'm a junior developer in constant evolution, always looking for new technologies and challenges to improve my skills and expand my knowledge.</p>
+<p align="left">Welcome to my GitHub profile!<br><br></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I have a solid foundation in front-end, with experience in HTML, CSS, Bootstrap. Nodejs and basic JavaScript. In my projects, each one is a unique opportunity to explore and apply my knowledge, always with the aim of delivering creative and functional solutions.<br><br>On the back-end, I have a robust understanding of Python and I am currently learning C and SQL languages ​​to expand my database skills.</p>
+<p align="left">I am an IT professional with experience in data analysis, SQL, and Power BI, passionate about transforming information into insights. I also bring a consulting mindset, understanding the client’s perspective to deliver effective solutions, while continuously developing my programming skills and working on essential projects in technology and business.</p>
 
 ###
 
@@ -31,9 +31,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="Microsoft SQL Server logo" />
+  <img width="12" />
+
+
+
 
 </div>
 
