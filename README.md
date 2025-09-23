@@ -1,17 +1,20 @@
-<h1 align="left">👋 Nice to meet you! I'm Gustavo 👨🏻‍💻</h1>
-<p align="left">Welcome to my GitHub profile — where technology meets curiosity and creativity.</p>
+<h1 align="left">Nice to meet you! I'm Gustavo 👨🏻‍💻</h1>
+<p align="left">Welcome to my GitHub profile</p>
 
-<h2 align="left">👨🏻‍💻 About Me</h2>
+<h2 align="left">👤 About Me</h2>
 
 <p align="left">
-I'm an IT professional passionate about transforming data into actionable insights. With hands-on experience in <strong>SQL</strong>, <strong>Power BI</strong>, and <strong>data analysis</strong>, I thrive on solving real-world problems through technology.<br><br>
-My background blends technical expertise with a consulting mindset — I focus on understanding the client's perspective to deliver smart, effective solutions. I'm constantly evolving my programming skills and working on meaningful projects that bridge business and tech.
+I'm a constantly developing Information Technology professional with practical experience in SQL, Power BI, data analysis, and technical support. Currently, my focus is on software development, an area in which I've been specializing with dedication.<br></br>
+
+In this space, I share projects I apply both in my studies and in real-world situations, always aiming to create useful and functional solutions. Each project represents a stage in my learning journey and reflects my commitment to continuous development and technical excellence.
 </p>
 
 <h2 align="left">🔧 Technologies & Tools</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
@@ -21,9 +24,13 @@ My background blends technical expertise with a consulting mindset — I focus o
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="Power BI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="30" alt="Excel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="SQL Server" />
 </div>
