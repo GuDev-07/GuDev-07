@@ -1,5 +1,5 @@
 <h1 align="left">Nice to meet you! I'm Gustavo 👨🏻‍💻</h1>
-<p align="left">Welcome to my GitHub profile</p>
+<p align="left">Welcome to my GitHub profile! </p>
 
 <h2 align="left">👤 About Me</h2>
 
