@@ -35,7 +35,7 @@ In this space, I share projects I apply both in my studies and in real-world sit
 
 <h2 align="left">📫 Let's Connect</h2>
 
-<p align="left">Feel free to reach out — I'm always open to collaboration, learning, and sharing ideas!</p>
+<p align="left">Would you like to contact me?</p>
 
 <div align="left">
   <a href="mailto:gustavinhojesussant@gmail.com" target="_blank">
