@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&color=0ea5e9&color2=1e293b&gradient=true"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdf8&size=38&center=true&vCenter=true&width=1000&duration=2000&lines=Hi,+I+am+Gustavo+Jesus;Full+Stack+Developer)](https://git.io/typing-svg)
 
@@ -53,18 +53,11 @@ Technology and communication are my core pillars: I like building solutions, but
 
 <br />
 
-<h2 align="center" style="color:#38bdf8">GitHub Activity</h2>
+<h2 align="center" style="color:#38bdf8">Activity Progress</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=GuDev-07&show_icons=true&theme=transparent&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb&hide_border=true&rank_icon=github&cache_seconds=1800"
-  />
-</p>
-
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuDev-07&layout=compact&langs_count=8&theme=transparent&title_color=38bdf8&text_color=e5e7eb&hide_border=true&cache_seconds=1800"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuDev-07&theme=github_dark"
   />
 </p>
 
@@ -77,4 +70,4 @@ Technology and communication are my core pillars: I like building solutions, but
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuDev-07&bg_color=0f172a&color=38bdf8&line=38bdf8&point=e5e7eb&area=true&hide_border=true" />
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0ea5e9&color2=1e293b&gradient=true"/>
